@@ -1,0 +1,10 @@
+name: base
+channels:
+  - plotly
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - sympy
+  -IPython
