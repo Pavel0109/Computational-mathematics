@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/pavel/opt/anaconda3/envs/my/bin/python",
+    "files.associations": {
+        "*.tcc": "c",
+        "cmath": "c",
+        "functional": "c",
+        "random": "c",
+        "type_traits": "c"
+    }
+}
